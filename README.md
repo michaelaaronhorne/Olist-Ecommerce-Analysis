@@ -12,7 +12,7 @@ This project simulates a real-world data analyst workflow using the Olist Brazil
 
 E-commerce companies rely on data to track revenue, customer behavior, and operational performance. In this project, I built a full analytics pipeline:
 
-Raw CSV Data → Relational Database → SQL Analysis → Tableau Dashboards
+Raw CSV Data -> Relational Database -> SQL Analysis -> Tableau Dashboards
 
 This project demonstrates both data engineering fundamentals and business intelligence skills.
 
