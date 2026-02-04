@@ -1,6 +1,7 @@
 Interactive Dashboard 
 
-View the dashboards here: [Olist Dashboards] (https://public.tableau.com/app/profile/michael.horne/vizzes)
+View the dashboards here: 
+[Olist Dashboards] (https://public.tableau.com/app/profile/michael.horne/vizzes)
 
 Olist E-Commerce Analytics Project
 
