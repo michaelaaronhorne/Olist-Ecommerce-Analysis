@@ -16,26 +16,26 @@ Database Design (PostgreSQL)
 
 I designed a relational schema to structure the raw datasets into connected tables.
 
-Key Tables
-Table	Description
-orders	Order-level transaction data
-order_items	Item-level revenue (core fact table)
-customers	Customer location and IDs
-products	Product and category info
-payments	Payment type and installments
+Key Tables:
+
+- orders	Order-level transaction data
+- order_items	Item-level revenue (core fact table)
+- customers	Customer location and IDs
+- products	Product and category info
+- payments	Payment type and installments
 
 Data Modeling Features:
 
-Primary and foreign keys
-Multi-table relationships
-Fact + dimension style structure
-Data validation queries after loading
+- Primary and foreign keys
+- Multi-table relationships
+- Fact + dimension style structure
+- Data validation queries after loading
 
-Data Loading
+Data Loading:
 
-Imported CSV files into PostgreSQL using pgAdmin
-Verified row counts and null checks
-Ensured referential integrity across tables
+- Imported CSV files into PostgreSQL using pgAdmin
+- Verified row counts and null checks
+- Ensured referential integrity across tables
 
 SQL Analysis
 
@@ -43,10 +43,10 @@ I wrote analytical queries involving multi-table joins, aggregations, and time-b
 
 Business Questions Answered:
 
-How has revenue trended over time?
-What is the monthly order volume?
-Which product categories drive the most revenue?
-What is the distribution of payment methods?
+- How has revenue trended over time?
+- What is the monthly order volume?
+- Which product categories drive the most revenue?
+- What is the distribution of payment methods?
 
 SQL Views for BI
 
