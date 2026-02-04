@@ -18,17 +18,16 @@ I designed a relational schema to structure the raw datasets into connected tabl
 
 Key Tables:
 
-- orders	Order-level transaction data
-- order_items	Item-level revenue (core fact table)
-- customers	Customer location and IDs
-- products	Product and category info
-- payments	Payment type and installments
+- orders:	Order-level transaction data
+- order_items:	Item-level revenue (core fact table)
+- customers:	Customer location and IDs
+- products:	Product and category info
+- payments:	Payment type and installments
 
 Data Modeling Features:
 
 - Primary and foreign keys
 - Multi-table relationships
-- Fact + dimension style structure
 - Data validation queries after loading
 
 Data Loading:
