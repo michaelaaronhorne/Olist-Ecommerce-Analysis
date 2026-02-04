@@ -2,9 +2,6 @@ Interactive Dashboard
 
 View the dashboards here: https://public.tableau.com/app/profile/michael.horne/vizzes
 
-![Dashboard Preview](tableau/01_Executive Overview.png)
-
-
 Olist E-Commerce Analytics Project
 
 SQL, PostgreSQL, Tableau: End-to-End Data Analysis
