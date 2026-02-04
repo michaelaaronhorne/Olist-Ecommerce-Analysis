@@ -2,7 +2,7 @@ Olist E-Commerce Analytics Project
 
 SQL, PostgreSQL, Tableau: End-to-End Data Analysis
 
-This project simulates a real-world data analyst workflow using the Olist Brazilian E-Commerce dataset. The goal was to transform raw transactional data into a structured database, perform business analysis with SQL, and communicate insights through executive dashboards.
+This project simulates a real-world data analyst workflow using the Olist Brazilian E-Commerce dataset. The goal was to transform raw transactional data into a structured database, perform business analysis with SQL, and communicate insights through dashboards.
 
 Project Overview
 
