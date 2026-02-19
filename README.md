@@ -1,4 +1,4 @@
-**Interactive Dashboard**
+**Visualizations/Interactive Dashboard**
 
 View the dashboards here: https://public.tableau.com/app/profile/michael.horne/vizzes
 
